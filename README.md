@@ -1,7 +1,6 @@
 # Master
-Timing Beats Speed
-
-# Chat GPT was used for explaining errors (https://talkai.info/chat/) 20224-12-06
+# Timing Beats Speed
+#Chat GPT was used for explaining errors (https://talkai.info/chat/) 20224-12-06
 
 import pandas as pd
 from pathlib import Path
